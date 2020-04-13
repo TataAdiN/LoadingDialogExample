@@ -2,7 +2,7 @@
 
 **15:00**
 * change lottie animation
-* make dialog has corder/border radius
+* make dialog has corner/border radius
 * fix root dialog transparent
 
 **6:00**
