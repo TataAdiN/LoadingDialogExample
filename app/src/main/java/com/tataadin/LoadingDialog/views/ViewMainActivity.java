@@ -17,4 +17,5 @@ public class ViewMainActivity extends AppCompatActivity {
         controllerMainActivity = new ControllerMainActivity(binding, this);
         setContentView(binding.getRoot());
     }
+
 }
